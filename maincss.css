@@ -1,0 +1,607 @@
+#treeviewstacked{
+    
+        background-color: #1e1a2b;
+        border-radius: 15px;
+    
+}
+#mainwidget{
+
+    background-color: #252a3e;
+}
+#resultviewstacke{
+
+    background-color: #1e1a2b;
+    border-radius: 15px;
+}
+#stackedWidget{
+
+    background-color: #1e1a2b;
+    border-radius: 15px;
+}
+#tasktab1{
+    background-color: #1e1a2b;
+    border-radius: 15px;
+}
+#contentviewstacked{
+
+    background-color: #1e1a2b;
+    border-radius: 15px;
+}
+#uuuuuuuuuuuuuuuu{
+    background-color: #1e1a2b;
+}
+#tree_view{
+    background-color: #1e1a2b;
+}
+
+#backtotreeviewpb {
+    border: 3px solid #4F9A5C; /* Updated border color */
+    background: none;
+    padding: 8px 16px; /* Adjusted padding */
+    font-size: 14px; /* Reduced font size */
+    font-family: 'montserrat';
+    color: aquamarine;
+    border-radius: 12px; /* Rounded corners */
+}
+
+#backtotreeviewpb:hover {
+    color: rgb(49, 148, 102);
+}
+
+/* When backtotreeviewpb is pressed */
+#backtotreeviewpb:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+/* When backtotreeviewpb is checked */
+#backtotreeviewpb:checked {
+    background-color:#4F9A5C;
+    color: #323234;
+}
+
+/* When backtotreeviewpb is checked and hovered */
+#backtotreeviewpb:checked:hover {
+    color: rgb(248, 249, 249);
+}
+
+/* When backtotreeviewpb is checked and pressed */
+#backtotreeviewpb:checked:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+#stegnographyselectionpb {
+    border: 3px solid #4F9A5C; /* Updated border color */
+    background: none;
+    padding: 8px 16px; /* Adjusted padding */
+    font-size: 14px; /* Reduced font size */
+    font-family: 'montserrat';
+    color: aquamarine;
+    border-radius: 12px; /* Rounded corners */
+}
+
+#stegnographyselectionpb:hover {
+    color: rgb(49, 148, 102);
+}
+
+/* When *stegnographyselectionpb is pressed */
+#stegnographyselectionpb:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+/* When *stegnographyselectionpb is checked */
+#stegnographyselectionpb:checked {
+    background-color:#4F9A5C;
+    color: #323234;
+}
+
+/* When *stegnographyselectionpb is checked and hovered */
+#stegnographyselectionpb:checked:hover {
+    color: rgb(248, 249, 249);
+}
+
+/* When *stegnographyselectionpb is checked and pressed */
+#stegnographyselectionpb:checked:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+
+
+#datarecoveryoption,
+#bruteforce_selectionpb,
+#malwareanalysis_selectionpb,
+#hashcrackerselection_pb,
+#hashcalcselction_pb {
+    border: 3px solid #4F9A5C; /* Updated border color */
+    background: none;
+    padding: 8px 16px; /* Adjusted padding */
+    font-size: 14px; /* Reduced font size */
+    font-family: 'montserrat';
+    color: aquamarine;
+    border-radius: 12px; /* Rounded corners */
+}
+
+
+#bruteforce_selectionpb:hover,
+#hashcrackerselection_pb:hover,
+#hashcalcselction_pb:hover {
+    color: rgb(49, 148, 102);
+}
+
+/* When QPushButton is pressed */
+#bruteforce_selectionpb:pressed,
+#hashcrackerselection_pb:pressed,
+#hashcalcselction_pb:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+/* When QPushButton is checked */
+#bruteforce_selectionpb:checked,
+#hashcrackerselection_pb:checked,
+#hashcalcselction_pb:checked {
+    background-color:#4F9A5C;
+    color: #323234;
+}
+
+/* When QPushButton is checked and hovered */
+
+#bruteforce_selectionpb:checked:hover,
+#hashcrackerselection_pb:checked:hover,
+#hashcalcselction_pb:checked:hover {
+    color: rgb(248, 249, 249);
+}
+
+/* When QPushButton is checked and pressed */
+#bruteforce_selectionpb:checked:pressed,
+#hashcrackerselection_pb:checked:pressed,
+#hashcalcselction_pb:checked:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+#datarecovryoption {
+    border: 3px solid #4F9A5C; /* Updated border color */
+    background: none;
+    padding: 8px 16px; /* Adjusted padding */
+    font-size: 14px; /* Reduced font size */
+    font-family: 'montserrat';
+    color: aquamarine;
+    border-radius: 12px; /* Rounded corners */
+}
+
+#datarecovryoption:hover {
+    color: rgb(49, 148, 102);
+}
+
+/* When #datarecoveryoption is pressed */
+#datarecovryoption:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+/* When #datarecoveryoption is checked */
+#datarecovryoption:checked {
+    background-color:#4F9A5C;
+    color: #323234;
+}
+
+/* When #datarecoveryoption is checked and hovered */
+#datarecovryoption:checked:hover {
+    color: rgb(248, 249, 249);
+}
+
+/* When #datarecoveryoption is checked and pressed */
+#datarecovryoption:checked:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+#malwareanalysis_slectionpb {
+    border: 3px solid #4F9A5C; /* Updated border color */
+    background: none;
+    padding: 8px 16px; /* Adjusted padding */
+    font-size: 14px; /* Reduced font size */
+    font-family: 'montserrat';
+    color: aquamarine;
+    border-radius: 12px; /* Rounded corners */
+}
+
+#malwareanalysis_slectionpb:hover {
+    color: rgb(49, 148, 102);
+}
+
+/* When #malwareanalysis_slectionpb is pressed */
+#malwareanalysis_slectionpb:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+/* When #malwareanalysis_slectionpb is checked */
+#malwareanalysis_slectionpb:checked {
+    background-color:#4F9A5C;
+    color: #323234;
+}
+
+/* When #malwareanalysis_slectionpb is checked and hovered */
+#malwareanalysis_slectionpb:checked:hover {
+    color: rgb(248, 249, 249);
+}
+
+/* When #malwareanalysis_slectionpb is checked and pressed */
+#malwareanalysis_slectionpb:checked:pressed {
+    background-color: rgb(49, 148, 102);
+    color: aquamarine;
+}
+
+#hashcracker_selectfilepb{
+    margin: 0;
+    padding: 0;
+    background: black;
+    display: grid;
+    place-items: center;
+    display: grid;
+    place-items: center;
+    width: 200px;
+    height: 50px;
+    background: #fff;
+    font-weight: bold;
+    letter-spacing: 2px;
+    transition: 1s;
+  }
+#hashcracker_selectfilepb:hover{
+      box-shadow: inset 140px 0px 0px
+      0px #b500ff, inset 140px
+      0px 0px 0px #b500ff;
+      color: white;
+    }
+/* Tree View */
+#tree_view {
+    background-color: #252a3e; /* Dark charcoal background */
+    color: #FFFFFF; /* White text */
+    border: 2px solid #4F9A5C; /* Green border */
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+}
+/* Custom Steg Result Label */
+#customstegresultlabel {
+    color: #4F9A5C; /* Text color */
+    background-color: #252a3e ; /* Dark charcoal background */
+    border: 2px solid #4F9A5C; /* Green border */
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 16px;
+    text-align: center;
+    max-width: 600px; /* Adjust as needed */
+    margin: 0 auto; /* Center horizontally */
+}
+/* Steg Image Label */
+#stegimagelabel {
+    border: 2px solid #4F9A5C; /* Green border */
+    border-radius: 10px;
+    margin: 10px; /* Add margin for spacing */
+    background-color: #252a3e;
+}
+/* List Widget */
+/* List Widget */
+#listWidget {
+    color: #4F9A5C; /* Text color */
+    background-color: #252a3e; /* Background color */
+    border: 2px solid #4F9A5C; /* Border color */
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 20px; /* Text size */
+}
+
+/* List Widget 2 */
+#listWidget_2 {
+    color: #4F9A5C; /* Text color */
+    background-color: #252a3e; /* Background color */
+    border: none; /* No border */
+    padding: 10px;
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 14px; /* Text size */
+}
+
+/* QTextEdit Styles */
+#textEdit {
+    background-color: #252a3e; /* Background color */
+    color: #4F9A5C; /* Text color */
+    border: 2px solid #4F9A5C; /* Border color */
+    border-radius: 5px; /* Border radius for rounded corners */
+    font-size: 14px; /* Font size */
+    padding: 5px; /* Padding inside the text edit */
+}
+
+
+
+/* Button with White Border */
+#hexviewpb,
+#mediaviewpb,
+#textviewpb,
+#customstegpb,
+#selectlocationpb,
+#jpgrecoverypushbutton,
+#select_rarfile,
+#select_passwordlistpb,
+#custompassword_generatepb,
+#brutefore_attackpb,
+#custompassword_generatebtn,
+#malware_customscan_pb,
+#malware_filescanpb,
+#automatedstegscanpb,
+#hashcracker_selectfilepb,
+#hashcracker_crackfilepb {
+    color: #000; /* Black text color */
+    background-color: #10a37f; /* Green color */
+    border: 2px solid #ffffff; /* White border */
+    border-radius: 15px; /* Slightly rounded corners */
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+    margin: 0;
+    padding: 0;
+    background: black;
+    display: grid;
+    place-items: center;
+    display: grid;
+    place-items: center;
+    width: 200px;
+    height: 50px;
+    background: #10a37f;
+    font-weight: bold;
+    letter-spacing: 2px;
+    transition: 1s;
+}
+#automatedstegscanpb:hover,
+#customstegpb:hover,
+#selectlocationpb:hover,
+#jpgrecoverypushbutton:hover,
+#select_rarfile:hover,
+#select_passwordlistpb:hover,
+#custompassword_generatepb:hover,
+#brutefore_attackpb:hover,
+#custompassword_generatebtn:hover,
+#malware_customscan_pb:hover,
+#malware_filescanpb:hover,
+#hashcracker_selectfilepb:hover,
+#hashcracker_crackfilepb:hover {
+    background-color: #0b7c5e; /* Darker green on hover */
+    border-color: #ffffff; /* White border color on hover */
+    box-shadow: inset 140px 0px 0px
+      0px #b500ff, inset 140px
+      0px 0px 0px #b500ff;
+      color: white;
+}
+/* ProgressBar Styles */
+QProgressBar {
+    border: 2px solid #10a37f; /* Green border */
+    border-radius: 10px; /* Rounded corners */
+    background-color: #252a3e; /* Dark background */
+    text-align: center; /* Center align text */
+}
+
+QProgressBar::chunk {
+    background-color: #10a37f; /* Green chunk color */
+    width: 10px; /* Width of the progress chunk */
+}
+
+QProgressBar::chunk:after {
+    content: '%'; /* Add percentage sign */
+    color: white; /* White text color */
+    font-size: 20px; /* Adjust font size for percentage sign */
+    position: absolute; /* Position at the end */
+    top: 0;
+    right: 5px; /* Adjust position */
+    bottom: 0;
+    line-height: 30px; /* Adjust line height */
+}
+/* QLineEdit Styles */
+QLineEdit {
+    border: 2px solid #10a37f; /* Green border */
+    border-radius: 10px; /* Rounded corners */
+    background-color: #252a3e; /* Dark background */
+    color: #ffffff; /* Text color */
+    padding: 8px 10px; /* Padding inside the QLineEdit */
+}
+
+QLineEdit:focus {
+    border-color: #4F9A5C; /* Change border color on focus */
+}
+/* QLabel Styles */
+#hashcrack_label1,
+#bruteforce_resultlabel,
+#hashcrack_label1,
+#malwareanalysis_resultlabel,
+#curremtfile_labe,
+#selected_direcory,
+#label_2,
+#hashcracker_resultlabel {
+    color: #4F9A5C; /* Text color */
+    font-size: 16px; /* Font size */
+    font-weight: bold; /* Bold font */
+}
+
+/* QPushButton Styles */
+#recoverystopbtn,
+#bruteforce_stoppb,
+#malwareanalysis_stopbtn,
+#hashcracker_stoppb {
+    color: #fff; /* Text color */
+    background-color: #ff5e5e; /* Neon red background color */
+    border: 2px solid #ff5e5e; /* Neon red border color */
+    border-radius: 15px; /* Rounded corners */
+    padding: 10px 20px; /* Padding */
+}
+
+/* QPushButton Hover Styles */
+#recoverystopbtn:hover,
+#bruteforce_stoppb:hover,
+#malwareanalysis_stopbtn:hover,
+#hashcracker_stoppb:hover {
+    background-color: #ff7d7d; /* Neon red hover background color */
+    border-color: #ff7d7d; /* Hover border color */
+}
+
+/* White Border on Press */
+#recoverystopbtn:pressed,
+#bruteforce_stoppb:pressed,
+#malwareanalysis_stopbtn:pressed,
+#hashcracker_stoppb:pressed {
+    border-color: #fff; /* White border color when pressed */
+}
+
+/* QComboBox Styles */
+QComboBox#hashcraker_combobox {
+    color: #ffffff; /* Text color */
+    background-color: #252a3e; /* Dark background color */
+    border: 2px solid #ffffff; /* White border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 5px; /* Padding */
+    min-width: 100px; /* Minimum width */
+}
+
+/* QComboBox Arrow Styles */
+QComboBox#hashcraker_combobox::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 20px; /* Width of the arrow */
+    background-color: transparent;
+    border-left: 1px solid #ffffff; /* White border on the left for separation */
+}
+
+/* QComboBox Arrow Icon Styles */
+QComboBox#hashcraker_combobox::down-arrow {
+    image: url("down_arrow.png"); /* Replace with your down arrow icon */
+    width: 12px; /* Adjust width as needed */
+    height: 12px; /* Adjust height as needed */
+}
+
+/* QComboBox Hover Styles */
+QComboBox#hashcraker_combobox:hover {
+    border-color: #10a37f; /* Green border on hover */
+}
+
+/* QComboBox Focus Styles */
+QComboBox#hashcraker_combobox:focus {
+    border-color: #10a37f; /* Green border on focus */
+}
+
+/* QComboBox Popup Styles */
+QComboBox#hashcraker_combobox QAbstractItemView {
+    color: #ffffff; /* Text color in the popup */
+    background-color: #252a3e; /* Popup background color */
+    selection-background-color: #10a37f; /* Selected item background color */
+}
+/* Hashcalc TextEdit Styles */
+#hashcalc_textedit {
+    background-color: #252a3e; /* Dark background color */
+    border: 2px solid #4F9A5C; /* Border color */
+    color: white; /* Text color */
+    font-size: 14px; /* Font size */
+    font-family: Arial, sans-serif; /* Font family */
+    padding: 10px; /* Padding inside the text edit */
+}
+
+/* Hashcalc TextEdit Placeholder Text */
+#hashcalc_textedit::placeholder {
+    color: #808080; /* Placeholder text color */
+}
+
+/* Hashcalc TextEdit ScrollBar Styles */
+#hashcalc_textedit QScrollBar:vertical {
+    background-color: #252a3e; /* Scrollbar background color */
+    border: 1px solid #4F9A5C; /* Scrollbar border */
+    width: 12px; /* Scrollbar width */
+    margin: 0px;
+}
+
+#hashcalc_textedit QScrollBar::handle:vertical {
+    background-color: #10a37f; /* Scrollbar handle color */
+    border-radius: 6px; /* Scrollbar handle border radius */
+}
+
+#hashcalc_textedit QScrollBar::handle:vertical:hover {
+    background-color: #1ed760; /* Scrollbar handle color on hover */
+}
+
+#hashcalc_textedit QScrollBar::sub-line:vertical {
+    border: none;
+    background-color: #252a3e; /* Scrollbar decrease button background color */
+    height: 10px;
+    width: 10px;
+    subcontrol-position: top;
+}
+
+#hashcalc_textedit QScrollBar::add-line:vertical {
+    border: none;
+    background-color: #252a3e; /* Scrollbar increase button background color */
+    height: 10px;
+    width: 10px;
+    subcontrol-position: bottom;
+}
+
+#hashcalc_textedit QScrollBar::sub-line:vertical:hover,
+#hashcalc_textedit QScrollBar::add-line:vertical:hover {
+    background-color: #10a37f; /* Scrollbar button background color on hover */
+}
+
+#hashcalc_textedit QScrollBar::sub-line:vertical:pressed,
+#hashcalc_textedit QScrollBar::add-line:vertical:pressed {
+    background-color: #1ed760; /* Scrollbar button background color on press */
+}
+
+#hashcalc_textedit QScrollBar::up-arrow:vertical,
+#hashcalc_textedit QScrollBar::down-arrow:vertical {
+    border: none;
+    background: none;
+    color: none;
+}
+
+#hashcalc_textedit QScrollBar::add-page:vertical,
+#hashcalc_textedit QScrollBar::sub-page:vertical {
+    background: none;
+}
+
+
+/* ScrollWidget Styles */
+#scrollwidget {
+    background-color: #252a3e; /* Background color */
+    border: 2px solid #4F9A5C; /* Border color */
+    border-radius: 10px; /* Border radius for rounded corners */
+    padding: 10px; /* Padding inside the scroll widget */
+    color: #4F9A5C; /* Text color */
+    font-size: 30px; /* Font size */
+}
+
+/* ScrollArea Styles */
+QScrollArea#scrollArea {
+    background-color: #252a3e; /* Background color */
+}
+/* verticalLayout_3 Styles */
+#verticalLayout_3 {
+    background-color: #17b286; /* Background color */
+    padding: 10px; /* Padding inside the layout */
+    color: #4F9A5C; /* Text color */
+    font-size: 14px; /* Font size */
+}
+/* hashcalcresultlabel Styles */
+#hashcalcresultlabel {
+    color: #4F9A5C; /* Text color */
+    font-size: 18px; /* Font size */
+}
+/* QTreeWidget Styles */
+QTreeWidget {
+    background-color: #252a3e; /* Background color */
+    color: #4cdc64; /* Text color */
+    border: 2px solid #4F9A5C; /* Border color */
+    border-radius: 5px; /* Border radius for rounded corners */
+    font-size: 16px; /* Increased font size */
+    padding: 5px; /* Padding inside the tree widget */
+}
+
